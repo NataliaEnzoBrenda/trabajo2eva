@@ -1,0 +1,170 @@
+@font-face {
+    font-family: 'Breaking Bad' ;
+    src: url("../FONT/Breaking\ Bad.ttf");
+    font-size: 14px;
+}
+#body1{
+    font-size: 14px;
+    text-align: center;
+    font-family: "Breaking Bad";
+    background-image: url("../IMG/fondo.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color: white;
+}
+#body2{
+    font-size: 14px;
+    font-family: "Helvetica";
+    text-align: justify;
+    background-image: url("../IMG/fondo.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color: whitesmoke;
+
+}
+#body3{
+    font-size: 14px;
+    font-family: "Helvetica";
+    text-align: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: #0c3e11;
+}
+#logo{
+    width: 200px;
+    height: 200px;
+}
+#poster{
+    
+    border-style: outset;
+    border: 10px solid brown;
+    border-radius: 22px;
+    width: 700px;
+    height: 300px;
+}
+
+#titulo{
+    font-size: 20px;
+    font-family: Helvetica, sans-serif;
+    font-weight: bolder;
+    color: coral;
+    text-align: center;
+}
+#fieldset1{
+
+    border: 0px;
+    text-align: justify;
+    font-size: 14px;
+    color: white;
+    background-color:rgb(220, 192, 154);
+    
+}
+#tamaño1{
+    width: 800px;
+    height: 50px;
+}
+#legend1{
+    
+    font-size: 14px;
+    font-weight: bolder;
+    color: coral;
+    font-family: Helvetica;
+    background-color: bisque;
+
+}
+#tabla{
+    text-align: center;
+    border-collapse: separate;
+    border-spacing: 5px;
+    background-color: #2b2d22;
+    margin: auto;
+    width: 800px;
+    height: 400px;
+
+}
+#tabla2{
+    text-align: center;
+    border-collapse: separate;
+    border-spacing: 5px;
+    background-color: #2b2d22;
+    margin: auto;
+    width: 700px;
+    height: 100px;
+}
+#td{
+    width: 70px;
+    height: 70px;
+    margin: 0px;
+}
+#imgtabla{
+    width: 70px;
+    height: 70px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    object-fit: contain;
+}
+
+
+#a{
+    font-family: "Helvetica";
+    font-weight: bolder;
+    font-size: 14px;
+    text-align: left;
+    color: coral;
+}
+#verde1{
+    background-color: #b6db20;
+}
+#verde2{
+    background-color:  #d4e878;
+
+}
+#verde3{
+    background-color:  #eff6cf;
+
+}
+#verde4{
+    background-color:  #89a419;
+}
+#verde5{
+    background-color:  #637123;
+}
+#verde6{
+    background-color:  #c5e345;
+}
+#verde7{
+    background-color:  #bcc3ad;
+}
+#verde8{
+    background-color:  #838e55;
+}
+#verde9{
+    background-color:  #c5c52e;
+}
+#morado{
+    background-color:  violet;
+}
+#textogrande{
+    font-size: 40px;
+    font-family: Helvetica, sans-serif;
+    font-weight: bolder;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+#textopequeno{
+    font-size: 10px;
+    font-family: Helvetica, sans-serif;
+    font-weight: bolder;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.tamaño{
+    width: 70px;
+    height: 70px;
+}
+#hank{
+    width: 70px;
+}
